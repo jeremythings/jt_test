@@ -7,7 +7,7 @@ Simple test library
 
 To use the command line tool ***jttest***   then install the package globally
 
-    npm install -g jttest
+    npm install -g jt_test
 
 ## Use just requiring the package:
 
