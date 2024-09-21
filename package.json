@@ -1,0 +1,19 @@
+{
+  "name": "jt_test",
+  "version": "1.0.0",
+  "description": "Jeremythings testing library",
+  "main": "jt_test.js",
+  "bin": {
+    "jttest": "./bin/jttest.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "testing",
+    "library"
+  ],
+  "author": "Jeremy Smith <jeremyasmith@yahoo.com>",
+  "license": "ISC"
+}

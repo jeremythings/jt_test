@@ -1,0 +1,8 @@
+{
+    "prefix": "jttest_",
+    "location": "./jttests",
+    "ignore": [
+        ],
+    "only": [
+        ]
+}
