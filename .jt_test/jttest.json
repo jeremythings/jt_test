@@ -1,0 +1,12 @@
+{
+    "prefix": "jttest_",
+    "location": "./jttests",
+    "ignore": [
+        ],
+    "only": [
+        ],
+    "prescript": "./.jttest/prescript.js",
+    "postscript": "./.jttest/postscript.js",
+    "postmessage": "You should see the following results:"
+
+}
